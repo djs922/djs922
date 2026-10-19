@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1F2A44&height=170&section=header&text=David%20Sebastien&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Security%2B%20%7C%20Active%20Directory%20%7C%20Splunk&descSize=16&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F2A44&height=170&section=header&text=David%20Sebastien&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Security%2B%20%7C%20&descSize=16&descAlignY=60)
 
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge)](#certifications)
 [![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge)](#skills)
