@@ -43,7 +43,7 @@ IT support professional in New York, NY, working with Active Directory and Servi
 
 ## 🔗 Links
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-profile-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR_USERNAME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-profile-212C42?style=flat-square&logo=tryhackme&logoColor=white)]([https://tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/droy69?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=f53ff2221b03&utm_source=copy&sharerId=6139466db8b0b6005ffaf5ed))
 [![Email](https://img.shields.io/badge/Email-David.sebastien22%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:David.sebastien22@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F2A44&height=90&section=footer" width="100%" alt="footer" />
